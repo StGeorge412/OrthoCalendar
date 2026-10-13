@@ -1,0 +1,1194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AscalonX//OrthoCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Example Parish · Great Lent 2027
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:ee325da2818dec664034@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Sunday of the Publican and the Pharisee
+DESCRIPTION:The Triodion begins\nFast: No fast\nReadings: 2 Tim 3:10-15 · 
+ Luke 18:10-14\nSaints: Ven. Timothy of Symbola in Bithynia · St. Eustathi
+ us\, Archbishop of Antioch\nCustomary services: Divine Liturgy (check your
+  parish's schedule)\nOld Calendar: February 8 (Afterfeast of the Meeting)\
+ nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:567d606f156a5590bc6b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Monday
+DESCRIPTION:Fast: No fast\nReadings: 2 Peter 1:20-2:9 · Mark 13:9-13\nSain
+ ts: Ven. Thalassius\, Limnæus and Baradates\, Hermits\, of Syria\nOld Cal
+ endar: February 9 (Leavetaking of the Meeting)\nAscalon Lent journal: [sto
+ re URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:243f7aff89ea743ee168@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Tuesday
+DESCRIPTION:Fast: No fast\nReadings: 2 Peter 2:9-22 · Mark 13:14-23\nSaint
+ s: Hieromartyr Polycarp\, Bishop of Smyrna · Ven. John\, Antiochus\, Anto
+ ninus\, Moses\, Zebinas\, Polychronius\,…\nOld Calendar: February 10 (St
+ . Ioannikios\, Father Confessor of the Dormition Holy Mountain…)\nAscalo
+ n Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:af14c542831028630395@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Wednesday
+DESCRIPTION:Fast: No fast\nReadings: 2 Peter 3:1-18 · Mark 13:24-31\nSaint
+ s: First and Second Finding of the Honorable Head of the Holy…\nOld Cale
+ ndar: February 11 (Hieromartyr Blaise\, Bishop of Sebaste)\nAscalon Lent j
+ ournal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:463cbc944e583a4a80a9@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Thursday
+DESCRIPTION:Fast: No fast\nReadings: 1 John 1:8-2:6 · Mark 13:31-14:2\nSai
+ nts: St. Tarasius\, Archbishop of Constantinople\nOld Calendar: February 1
+ 2 (St. Meletius\, Archbishop of Antioch)\nAscalon Lent journal: [store URL
+ ]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f084f06fe6aab20e6fea@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Friday
+DESCRIPTION:Fast: No fast\nReadings: 1 John 2:7-17 · Mark 14:3-9\nSaints: 
+ St. Porphyrius\, Bishop of Gaza\nOld Calendar: February 13 (St. Seraphima)
+ \nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:995db54f2cfe1cfbcfd5@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Saturday
+DESCRIPTION:Fast: No fast\nReadings: Luke 20:46-21:4\nSaints: Ven. Prokopio
+ s the Confessor of Decapolis\nOld Calendar: February 14 (Ven. Auxentius of
+  Bithynia)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:283a52aedf10db7a3a3c@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Sunday of the Prodigal Son
+DESCRIPTION:Fast: No fast\nReadings: 1 Cor 6:12-20 · Luke 15:11-32\nSaints
+ : John Cassian the Roman\nCustomary services: Divine Liturgy (check your p
+ arish's schedule)\nOld Calendar: February 15 (Apostle of the Seventy Onesi
+ mus)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0362a282655fb1a5531c@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Monday
+DESCRIPTION:Fast: No fast\nReadings: 1 John 2:18-3:10 · Mark 11:1-11\nSain
+ ts: Martyr Eudokia of Heliopolis\nOld Calendar: February 16 (Martyrs Pamph
+ ilius—Presbyter\, Valens—Deacon\, Paul\, Seleucus\,…)\nAscalon Lent 
+ journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:954f939fa2510c6a0d34@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Tuesday
+DESCRIPTION:Fast: No fast\nReadings: 1 John 3:11-20 · Mark 14:10-42\nSaint
+ s: Hieromartyr Theodotus\, Bishop of Cyrenia · Virgin Martyr Euthalia of 
+ Sicily\nOld Calendar: February 17 (Great Martyr Theodore the Tyro)\nAscalo
+ n Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:50ba31f45e0d74e9bba0@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Wednesday · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: 1 John 3:21-4:6 · Mark 14:43-15:1
+ \nSaints: Martyr Eutropius of Amasea\, and with him Martyrs Cleonicus and
+ …\nOld Calendar: February 18 (St. Leo the Great\, Pope of Rome)\nAscalon
+  Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d6e995de76666fcabddc@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Thursday
+DESCRIPTION:Fast: No fast\nReadings: 1 John 4:20-5:21 · Mark 15:1-15\nSain
+ ts: Ven. Gerasimus of the Jordan · Rt. Blv. Prince Daniel of Moscow\nOld 
+ Calendar: February 19 (Apostles of the Seventy Archippus and Philemon\, an
+ d Martyr Apphia)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:3f57901ceee4aa9726a1@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Friday · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: 2 John 1:1-13\nSaints: Martyr Cono
+ n of Isauria · Martyr Conon the Gardener\, of Pamphylia\nOld Calendar: Fe
+ bruary 20 (St. Leo\, Bishop of Catania in Sicily)\nAscalon Lent journal: [
+ store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:210be824b32342a0d830@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Saturday
+DESCRIPTION:Fast: No fast\nReadings: 1 Thess 4:13-17 · Luke 21:8-9\, 25-27
+ \, 33-36\nSaints: The Uncovering of the Precious Cross and the Precious Na
+ ils by…\nOld Calendar: February 21 (Saint Makarios of Glinsk Hermitage)\
+ nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:161834874093151b7edf@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Sunday of the Last Judgment
+DESCRIPTION:Meatfare Sunday\nFast: No fast\nReadings: 1 Cor 8:8-9:2 · Matt
+  25:31-46\nSaints: The Holy Hieromartyrs of Cherson: Basil\, Ephraim\, Cap
+ ito\, Eugene\,… · Ven. Paul the Simple\, disciple of Ven. Anthony the G
+ reat\nCustomary services: Divine Liturgy (check your parish's schedule)\nO
+ ld Calendar: February 22 (Uncovering of the Relics of the Holy Martyrs at 
+ the Gate of…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d608ebdb1336d2c8ffd8@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Monday of Cheesefare Week · Dairy\, eggs and fish allowed (no meat
+ )
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: 3 John
+  1:1-15 · Luke 19:29-40\, 22:7-39\nSaints: St. Theophylactus\, Bishop of 
+ Nicomedia · Ven. Dometius\nOld Calendar: February 23 (Hieromartyr Polycar
+ p\, Bishop of Smyrna)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:defa8185b0ee7b3670a4@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Tuesday of Cheesefare Week · Dairy\, eggs and fish allowed (no mea
+ t)
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: Isa 43
+ :9-14 · Wis 3:1-9 · Wis 5:15-6:3 · Jude 1:1-10 · Luke 22:39-42\, 45-23
+ :1\nSaints: The Holy Forty Martyrs of Sebaste: Cyrion\, Candidus\, Domnus\
+ ,…\nOld Calendar: February 24 (First and Second Finding of the Honorable
+  Head of the Holy…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c4196cb767e00770cd9b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Wednesday of Cheesefare Week · Dairy\, eggs and fish allowed (no m
+ eat)
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: Joel 2
+ :12-26 · Joel 3:12-21\nSaints: Martyr Quadratus and those with him: Cypri
+ an\, Dionysius\, Anectus\,… · St. Anastasia the Patrician of Alexandria
+ \nOld Calendar: February 25 (St. Tarasius\, Archbishop of Constantinople)\
+ nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:89d480a1684525ae63ef@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:Thursday of Cheesefare Week · Dairy\, eggs and fish allowed (no me
+ at)
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: Jude 1
+ :11-25\nSaints: St. Sophronius\, Patriarch of Jerusalem · Hieromartyrs Pi
+ onius and Limnus of Smyrna and those with them:…\nOld Calendar: February
+  26 (“Mezhetsk” Icon of the Mother of God)\nAscalon Lent journal: [sto
+ re URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:5b806fd2993b667f115b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Friday of Cheesefare Week · Dairy\, eggs and fish allowed (no meat
+ )
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: Zech 8
+ :7-17 · Zech 8:19-23\nSaints: Ven. Theophanes the Confessor\, of Sigriane
+  · Righteous Phineas\, grandson of Aaron\nOld Calendar: February 27 (Repo
+ se of St. Raphael\, Bishop of Brooklyn)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f1888b2cd64a2d850fda@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Saturday of Cheesefare Week · Dairy\, eggs and fish allowed (no me
+ at)
+DESCRIPTION:Fast: Dairy\, eggs and fish allowed (no meat)\nReadings: Gal 5:
+ 22-6:2 · Matt 6:1-13\nSaints: Martyr Christina of Persia\nOld Calendar: F
+ ebruary 28 (Ven. Basil the Confessor\, Companion of Ven. Procopius at Deca
+ polis)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:66667851dc285158d615@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Sunday of Forgiveness · Dairy\, eggs and fish allowed (no meat)
+DESCRIPTION:Cheesefare Sunday · Forgiveness Vespers\nFast: Dairy\, eggs an
+ d fish allowed (no meat)\nReadings: Rom 13:11-14:4 · Matt 6:14-21\nSaints
+ : Ven. Benedict of Nursia · St. Euschemon the Confessor\, Bishop of Lamps
+ acus\nCustomary services: Divine Liturgy · Forgiveness Vespers (evening) 
+ (check your parish's schedule)\nOld Calendar: March 1 (Martyr Eudokia of H
+ eliopolis)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:03ff794185f365cead7f@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Clean Monday · Strict fast
+DESCRIPTION:Monday of the 1st Week of Great Lent\nFast: Strict fast\nReadin
+ gs: Isa 1:1-20 · Gen 1:1-13 · Prov 1:1-20\nSaints: Martyrs Agapius\, Pub
+ lius\, Timolaus\, Romulus\, two named Dionysius\,…\nCustomary services: 
+ Great Canon of St Andrew at Great Compline (evening) (check your parish's 
+ schedule)\nOld Calendar: March 2 (Hieromartyr Theodotus\, Bishop of Cyreni
+ a)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2f913ed7121ed06d15@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Tuesday of the 1st Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 1:19-2:4 · Gen 1:14-23 · Pro
+ v 1:20-33\nSaints: Martyr Sabinas of Egypt · Apostle Aristobulus of the S
+ eventy\, Bishop of Britain\nCustomary services: Great Canon of St Andrew a
+ t Great Compline (evening) (check your parish's schedule)\nOld Calendar: M
+ arch 3 (Martyr Eutropius of Amasea\, and with him Martyrs Cleonicus and…
+ )\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee27a6cefb4eb8581a3@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Wednesday of the 1st Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 2:3-11 · Gen 1:24-2:3 · Prov
+  2:1-22\nSaints: Martyr Marinus · St. Patrick\, Bishop of Armagh\, Enligh
+ tener of Ireland\nCustomary services: Great Canon of St Andrew at Great Co
+ mpline (evening) · Liturgy of the Presanctified Gifts (check your parish'
+ s schedule)\nOld Calendar: March 4 (Ven. Gerasimus of the Jordan)\nAscalon
+  Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b5438dff7ba7e645ce@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Thursday of the 1st Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 2:11-21 · Gen 2:4-19 · Prov 
+ 3:1-18\nSaints: St. Cyril\, Archbishop of Jerusalem · Martyrs Trophimus a
+ nd Eucarpus of Nicomedia\nCustomary services: Great Canon of St Andrew at 
+ Great Compline (evening) (check your parish's schedule)\nOld Calendar: Mar
+ ch 5 (Martyr Conon of Isauria)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5153a8cfa9743b9bc4@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:Friday of the 1st Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 3:1-15 · Gen 2:20-3:20 · Pro
+ v 3:19-34\nSaints: Martyrs Chrysanthus and Daria\, and those with them at 
+ Rome:…\nCustomary services: Liturgy of the Presanctified Gifts · Saluta
+ tions to the Theotokos (evening) (check your parish's schedule)\nOld Calen
+ dar: March 6 (The 42 Martyrs of Ammoria in Phrygia\, including: Constantin
+ e\,…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ee9e19eeca1598a81b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Saturday of St Theodore the Recruit · Wine and oil allowed
+DESCRIPTION:Saturday of the 1st Week of Great Lent\nFast: Wine and oil allo
+ wed\nReadings: 2 Tim 2:1-10 · Mark 2:23-3:5\nSaints: The Holy Fathers who
+  were slain at the Monastery of St. Savva:… · Martyr Photini\, the Sama
+ ritan woman\, and her sons: Martyrs Victor…\nOld Calendar: March 7 (The 
+ Holy Hieromartyrs of Cherson: Basil\, Ephraim\, Capito\, Eugene\,…)\nAsc
+ alon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:42aa30028a792b212fb7@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Sunday of Orthodoxy · Wine and oil allowed
+DESCRIPTION:1st Sunday of Great Lent\nFast: Wine and oil allowed\nReadings:
+  Heb 11:24-26\, 32-12:2 · John 1:43-51\nSaints: St. James the Confessor\,
+  Bishop of Catania · St. Thomas\, Patriarch of Constantinople\nCustomary 
+ services: Divine Liturgy of St Basil (check your parish's schedule)\nOld C
+ alendar: March 8 (St. Theophylactus\, Bishop of Nicomedia)\nAscalon Lent j
+ ournal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9742068c9365b22060@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Monday of the 2nd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 4:2-5:7 · Gen 3:21-4:7 · Pro
+ v 3:34-4:22\nSaints: Hieromartyr Basil of Ancyra\nOld Calendar: March 9 (T
+ he Holy Forty Martyrs of Sebaste: Cyrion\, Candidus\, Domnus\,…)\nAscalo
+ n Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a55cd9d346bb464a9ceb@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:Tuesday of the 2nd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 5:7-16 · Gen 4:8-15 · Prov 5
+ :1-15\nSaints: Martyr Nikon and 199 disciples with him in Sicily\nOld Cale
+ ndar: March 10 (Martyr Quadratus and those with him: Cyprian\, Dionysius\,
+  Anectus\,…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d0727ab847927f04a6@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:Wednesday of the 2nd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 5:16-25 · Gen 4:16-26 · Prov
+  5:15-6:3\nSaints: Ven. Zachariah the Recluse · St. Artemius\, Bishop of 
+ Seleucia\nCustomary services: Liturgy of the Presanctified Gifts (check yo
+ ur parish's schedule)\nOld Calendar: March 11 (St. Sophronius\, Patriarch 
+ of Jerusalem)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0101b0492fa866e7f4f4@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:The Annunciation · Fish\, wine and oil allowed
+DESCRIPTION:Thursday of the 2nd Week of Great Lent\nFast: Fish\, wine and o
+ il allowed\nReadings: Heb 2:11-18 · Luke 1:24-38\nCustomary services: Div
+ ine Liturgy of the Annunciation (check your parish's schedule)\nOld Calend
+ ar: March 12 (Ven. Theophanes the Confessor\, of Sigriane)\nAscalon Lent j
+ ournal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8db1ed6697273b5ecebe@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Friday of the 2nd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 7:1-15 · Gen 5:32-6:8 · Prov
+  6:20-7:1\nCustomary services: Liturgy of the Presanctified Gifts · Salut
+ ations to the Theotokos (evening) (check your parish's schedule)\nOld Cale
+ ndar: March 13 (Translation of the relics of St. Nikephoros\, Patriarch of
+ …)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:96360b457dcc24ee992d@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:Saturday of the 2nd Week of Great Lent · Wine and oil allowed
+DESCRIPTION:Fast: Wine and oil allowed\nReadings: Heb 3:12-16 · Mark 1:35-
+ 44\nSaints: Martyr Matrona of Thessalonica\nOld Calendar: March 14 (The Ex
+ pulsion of Adam and Eve from Paradise)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8af4611e02867cd912a7@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Sunday of St Gregory Palamas · Wine and oil allowed
+DESCRIPTION:2nd Sunday of Great Lent\nFast: Wine and oil allowed\nReadings:
+  Heb 1:10-2:3 · Mark 2:1-12\nSaints: Ven. Hilarion the New\, Abbot of Pel
+ ekete · Ven. Stephen the Wonderworker\, Abbot of Triglia\nCustomary servi
+ ces: Divine Liturgy of St Basil (check your parish's schedule)\nOld Calend
+ ar: March 15 (Martyrs Agapius\, Publius\, Timolaus\, Romulus\, two named D
+ ionysius\,…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9e5b188247dae10588@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Monday of the 3rd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 8:13-9:7 · Gen 6:9-22 · Prov
+  8:1-21\nSaints: Hieromartyr Mark\, Bishop of Arethusa\, Martyr Cyril the 
+ Deacon\, of… · St. Eustathius the Confessor\, Bishop of Bithynia\nOld C
+ alendar: March 16 (Martyr Sabinas of Egypt)\nAscalon Lent journal: [store 
+ URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:10b08f103b8e741da8c9@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Tuesday of the 3rd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 9:9-10:4 · Gen 7:1-15 · Prov
+  8:32-9:11\nSaints: Ven. John Climacus of Sinai\, author of The Ladder · 
+ Apostles Sosthenes\, Apollos\, Cephas\, Cæsar\, and Epaphroditus\, of…\
+ nOld Calendar: March 17 (Ven. Aleksy the Man of God)\nAscalon Lent journal
+ : [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a31bdbd9c159cd44b0cd@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Wednesday of the 3rd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 10:12-20 · Gen 7:6-9 · Prov 
+ 9:12-18\nSaints: St. Hypatius the Wonderworker\, Bishop of Gangra\nCustoma
+ ry services: Liturgy of the Presanctified Gifts (check your parish's sched
+ ule)\nOld Calendar: March 18 (Repose of St. Nikolai of Zhicha)\nAscalon Le
+ nt journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f9f8e89e37ed1c8fc868@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Thursday of the 3rd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 11:10-12:2 · Gen 7:11-8:3 · 
+ Prov 10:1-22\nSaints: Ven. Mary of Egypt · Martyrs Gerontius and Basilide
+ s\nOld Calendar: March 19 (Martyrs Chrysanthus and Daria\, and those with 
+ them at Rome:…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b6b49bd9531ecd9e69@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:Friday of the 3rd Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 13:2-13 · Gen 8:4-21 · Prov 
+ 10:31-11:12\nSaints: Ven. Titus the Wonderworker · Martyrs Amphianus and 
+ Edesius of Lycia\nCustomary services: Liturgy of the Presanctified Gifts 
+ · Salutations to the Theotokos (evening) (check your parish's schedule)\n
+ Old Calendar: March 20 (The Holy Fathers who were slain at the Monastery o
+ f St. Savva:…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:3fff7a503f566082489f@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:Saturday of the 3rd Week of Great Lent · Wine and oil allowed
+DESCRIPTION:Fast: Wine and oil allowed\nReadings: Heb 10:32-38 · Mark 2:14
+ -17\nSaints: Ven. Niketas the Confessor\, Abbot of Medikion · Virgin Mart
+ yr Theodosίa of Tyre\, and Martyr Irene\nOld Calendar: March 21 (St. Jame
+ s the Confessor\, Bishop of Catania)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d57ed04cf8109d003031@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:Sunday of the Holy Cross · Wine and oil allowed
+DESCRIPTION:3rd Sunday of Great Lent\nFast: Wine and oil allowed\nReadings:
+  Heb 4:14-5:6 · Mark 8:34-9:1\nSaints: Ven. George of Mt. Maleon in the P
+ eloponnesus · Martyr Niketas of Pojani\nCustomary services: Divine Liturg
+ y of St Basil (check your parish's schedule)\nOld Calendar: March 22 (Hier
+ omartyr Basil of Ancyra)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:1d85d5fa6dd27a059952@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Monday of the 4th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 14:24-32 · Gen 8:21-9:7 · Pr
+ ov 11:19-12:6\nSaints: Martyrs Agathopodes the Deacon and Theodulus the Re
+ ader at… · Ven. Theodora of Thessalonica\nOld Calendar: March 23 (Marty
+ r Nikon and 199 disciples with him in Sicily)\nAscalon Lent journal: [stor
+ e URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:b8efbd5ce7a22c7b633e@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:Tuesday of the 4th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 25:1-9 · Gen 9:8-17 · Prov 1
+ 2:8-22\nSaints: St. Eutychius\, Patriarch of Constantinople · St. Platoni
+ s of Nisibis\, Syria\nOld Calendar: March 24 (Forefeast of the Annunciatio
+ n)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:532ef96fc0bac13f9e8d@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Wednesday of the 4th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 26:21-27:9 · Gen 9:18-10:1 ·
+  Prov 12:23-13:9\nSaints: Repose of St. Tikhon\, Patriarch of Moscow and A
+ ll Russia and… · St. George the Confessor\, Bishop of Mytilene\nCustoma
+ ry services: Liturgy of the Presanctified Gifts (check your parish's sched
+ ule)\nOld Calendar: March 25 (The Annunciation of our Most Holy Lady\, The
+ otokos and Ever-Virgin Mary)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c987cce97bdcf3e013@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:Thursday of the 4th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 28:14-22 · Gen 10:32-11:9 · 
+ Prov 13:19-14:6\nSaints: Holy Apostles of the Seventy: Herodion\, Agabus\,
+  Asyncritus\, Rufus\,… · Ven. Rufus the Obedient\, of the Kiev Caves\nO
+ ld Calendar: March 26 (Leavetaking of the Annunciation)\nAscalon Lent jour
+ nal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:3745bb3e3637bb8d0575@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Friday of the 4th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 29:13-23 · Gen 12:1-7 · Prov
+  14:15-26\nCustomary services: Liturgy of the Presanctified Gifts · Salut
+ ations to the Theotokos (evening) (check your parish's schedule)\nOld Cale
+ ndar: March 27 (Martyr Matrona of Thessalonica)\nAscalon Lent journal: [st
+ ore URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:548b704fbaa47ef974d1@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Saturday of the 4th Week of Great Lent · Wine and oil allowed
+DESCRIPTION:Fast: Wine and oil allowed\nReadings: Heb 6:9-12 · Mark 7:31-3
+ 7\nSaints: Martyrs Terence\, Pompeius\, Africanus\, Maximus\, Zeno\, Alexa
+ nder\,… · Hieromartyr Patriarch Gregory V of Constantinople\nOld Calend
+ ar: March 28 (Synaxis of the Venerable Fathers of the Kiev Caves Lavra)\nA
+ scalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c9d86bc9067734daf3@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:Sunday of St John Climacus · Wine and oil allowed
+DESCRIPTION:4th Sunday of Great Lent\nFast: Wine and oil allowed\nReadings:
+  Heb 6:13-20 · Mark 9:17-31\nSaints: Hieromartyr Antipas\, Bishop of Perg
+ amum\, disciple of St. John the… · Ven. Pharmuthius\, Anchorite\, of Eg
+ ypt\nCustomary services: Divine Liturgy of St Basil (check your parish's s
+ chedule)\nOld Calendar: March 29 (Hieromartyr Mark\, Bishop of Arethusa\, 
+ Martyr Cyril the Deacon\, of…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8d497a4f72436d42930b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:Monday of the 5th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 37:33-38:6 · Gen 13:12-18 · 
+ Prov 14:27-15:4\nSaints: St. Basil the Confessor\, Bishop of Parium · Ven
+ . Acacius the Younger\, of Kavsokalyvia\nOld Calendar: March 30 (Ven. John
+  Climacus of Sinai\, author of The Ladder)\nAscalon Lent journal: [store U
+ RL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:6e3e2bece87afc26e859@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Tuesday of the 5th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 40:18-31 · Gen 15:1-15 · Pro
+ v 15:7-19\nOld Calendar: March 31 (Repose of St. Innocent\, Metropolitan o
+ f Moscow\, Enlightener of the…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:beb0484ff7efd305297f@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Wednesday of the 5th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 41:4-14 · Gen 17:1-9 · Prov 
+ 15:20-16:9\nSaints: Martyr Ardalion the Actor\nCustomary services: Liturgy
+  of the Presanctified Gifts · Great Canon of St Andrew\, complete (evenin
+ g) (check your parish's schedule)\nOld Calendar: April 1 (Ven. Mary of Egy
+ pt)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:a72d87cc7f858f4d26a0@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Thursday of the 5th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 42:5-16 · Gen 18:20-33 · Pro
+ v 16:17-17:17\nOld Calendar: April 2 (Virgin Martyr Theodora of Tyre)\nAsc
+ alon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:4c33d5daed1a66cc5b55@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Friday of the 5th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 45:11-17 · Gen 22:1-18 · Pro
+ v 17:17-18:5\nSaints: Virgin Martyrs Agape\, Irene and Chionia\, in Illyri
+ a · Martyrs Leonidas\, Chariessa\, Nice\, Galina\, Kalista\, Nunechia\,
+ …\nCustomary services: Liturgy of the Presanctified Gifts · Akathist to
+  the Theotokos (evening) (check your parish's schedule)\nOld Calendar: Apr
+ il 3 (Ven. Niketas the Confessor\, Abbot of Medikion)\nAscalon Lent journa
+ l: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:d57e6657447ab6c6c40b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Saturday of the Akathist Hymn · Wine and oil allowed
+DESCRIPTION:Saturday of the 5th Week of Great Lent\nFast: Wine and oil allo
+ wed\nReadings: Heb 9:1-7 · Luke 1:39-49\, 56 (OCA reads Luke 10:38-42\; 1
+ 1:27-28 at this Liturgy.)\nSaints: Hieromartyr Simeon\, Bishop in Persia\,
+  and those with him: Martyrs… · Repose of Ven. Makarios of Corinth\nOld
+  Calendar: April 4 (Ven. Joseph the Hymnographer)\nAscalon Lent journal: [
+ store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf4589f0dc0ffe0077c@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Sunday of St Mary of Egypt · Wine and oil allowed
+DESCRIPTION:5th Sunday of Great Lent\nFast: Wine and oil allowed\nReadings:
+  Heb 9:11-14 · Mark 10:32-45\nSaints: Ven. John\, disciple of Ven. Gregor
+ y of Decapolis · St. Cosmas\, Bishop of Chalcedon\, and his fellow asceti
+ c\, St. Auxentius\nCustomary services: Divine Liturgy of St Basil (check y
+ our parish's schedule)\nOld Calendar: April 5 (Martyrs Agathopodes the Dea
+ con and Theodulus the Reader at…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:82f759d02df40cc750cf@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Monday of the 6th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 48:17-49:4 · Gen 27:1-41 · P
+ rov 19:16-25\nSaints: Martyr Theodore and those with him · Hieromartyr Pa
+ phnutius of Jerusalem\nOld Calendar: April 6 (St. Eutychius\, Patriarch of
+  Constantinople)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:c6fe3a6f8b36e7b1c962@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Tuesday of the 6th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 49:6-10 · Gen 31:3-16 · Prov
+  21:3-21\nSaints: Ven. Theodore Trichinas\, Hermit\, near Constantinople 
+ · Ss. Gregory and Anastasius the Sinaite\, Patriarchs of Antioch\nOld Cal
+ endar: April 7 (Repose of St. Tikhon\, Patriarch of Moscow and All Russia 
+ and…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:89673c4b5eec1e9247a1@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Wednesday of the 6th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 58:1-11 · Gen 43:26-31\, 45:1
+ -16 · Prov 21:23-22:4\nSaints: Hieromartyr Januarius\, Bishop of Benevent
+ o\, and his companions:… · Hieromartyr Theodore of Perge in Pamphylia\,
+  his mother\, Philippa\,…\nCustomary services: Liturgy of the Presanctif
+ ied Gifts (check your parish's schedule)\nOld Calendar: April 8 (Holy Apos
+ tles of the Seventy: Herodion\, Agabus\, Asyncritus\, Rufus\,…)\nAscalon
+  Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0054e5239ba6f7d53a42@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Thursday of the 6th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 65:8-16 · Gen 46:1-7 · Prov 
+ 23:15-24:5\nSaints: St. Theodore the Sykeote\, Bishop of Anastasiopolis ·
+  Apostles Nathaniel\, Luke and Clement\nOld Calendar: April 9 (Martyr Eups
+ ychius of Cæsarea in Cappadocia)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6498d4766736dff269@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Friday of the 6th Week of Great Lent · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Isa 66:10-24 · Gen 49:33-50:26 ·
+  Prov 31:8-31 (St George: Greek and Antiochian use keep his feast on Brigh
+ t Monday (3 May)\; OCA parishes may keep it today\, with Acts 12:1-11 · J
+ ohn 15:17-16:2.)\nSaints: Greatmartyr George\nCustomary services: Liturgy 
+ of the Presanctified Gifts (check your parish's schedule)\nOld Calendar: A
+ pril 10 (Martyrs Terence\, Pompeius\, Africanus\, Maximus\, Zeno\, Alexand
+ er\,…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:56de365fc3dbdd50f8ed@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Lazarus Saturday · Wine and oil allowed
+DESCRIPTION:The Raising of Lazarus\nFast: Wine and oil allowed (Many also a
+ llow fish roe today.)\nReadings: Heb 12:28-13:8 · John 11:1-45\nOld Calen
+ dar: April 11 (Hieromartyr Antipas\, Bishop of Pergamum\, disciple of St. 
+ John the…)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:98506e4a0ce881e5b21b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Palm Sunday · Fish\, wine and oil allowed
+DESCRIPTION:The Entry of the Lord into Jerusalem\nFast: Fish\, wine and oil
+  allowed\nReadings: Phil 4:4-9 · John 12:1-18\nCustomary services: Divine
+  Liturgy · Bridegroom Matins of Holy Monday (evening) (check your parish'
+ s schedule)\nOld Calendar: April 12 (St. Basil the Confessor\, Bishop of P
+ arium)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:664d2574332a86302825@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Great and Holy Monday · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Matt 21:18-43 · Matt 24:3-35\nCus
+ tomary services: Presanctified Liturgy · Bridegroom Matins of Holy Tuesda
+ y (evening) (check your parish's schedule)\nOld Calendar: April 13 (Hierom
+ artyr Artemon of Laodikeia in Syria)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0072fafc8d4e9b25c3da@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:Great and Holy Tuesday · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: Matt 22:15-23:39 · Matt 24:36-26:
+ 2\nCustomary services: Presanctified Liturgy · Bridegroom Matins of Holy 
+ Wednesday (evening) (check your parish's schedule)\nOld Calendar: April 14
+  (St. Martin the Confessor\, Pope of Rome)\nAscalon Lent journal: [store U
+ RL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5d833716cdd88517d1@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Great and Holy Wednesday · Strict fast
+DESCRIPTION:Fast: Strict fast\nReadings: John 12:17-50 · Matt 26:6-16\nCus
+ tomary services: Presanctified Liturgy · Holy Unction (evening) (check yo
+ ur parish's schedule)\nOld Calendar: April 15 (Apostles of the Seventy: Ar
+ istarchus\, Pudens and Trophimus)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:0ab9774c47f2435cd513@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Great and Holy Thursday · Wine allowed\, no oil
+DESCRIPTION:Fast: Wine allowed\, no oil (OCA allows wine and oil today.)\nR
+ eadings: 1 Cor 11:23-32 · Matt 26:2-20\; John 13:3-17\; Matt 26:21-39\; L
+ uke 22:43-45\; Matt 26:40-27:2\nCustomary services: Vesperal Liturgy of th
+ e Mystical Supper · Matins with the Twelve Passion Gospels (evening) (che
+ ck your parish's schedule)\nOld Calendar: April 16 (Virgin Martyrs Agape\,
+  Irene and Chionia\, in Illyria)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:ae9eaba42aa1bfa0ecb3@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Great and Holy Friday · Strict fast
+DESCRIPTION:Fast: Strict fast (Many keep a total fast\, as they are able\, 
+ until after Vespers.)\nReadings: 1 Cor 1:18-2:2 · Matt 27:1-38\; Luke 23:
+ 39-43\; Matt 27:39-54\; John 19:31-37\; Matt 27:55-61 (Vespers of the Taki
+ ng Down. Holy Friday has many lessons\; follow your parish's services.)\nC
+ ustomary services: Royal Hours · Vespers of the Taking Down · Lamentatio
+ ns at the Tomb (evening) (check your parish's schedule)\nOld Calendar: Apr
+ il 17 (Hieromartyr Simeon\, Bishop in Persia\, and those with him: Martyrs
+ …)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:48aa1faccb9e8d6f5a0b@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Great and Holy Saturday · Wine allowed\, no oil
+DESCRIPTION:Fast: Wine allowed\, no oil\nReadings: Rom 6:3-11 · Matt 28:1-
+ 20\nCustomary services: Vesperal Liturgy of the First Resurrection · Midn
+ ight Office and Paschal Matins (late evening) (check your parish's schedul
+ e)\nOld Calendar: April 18 (Ven. John\, disciple of Ven. Gregory of Decapo
+ lis)\nAscalon Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:67104d25f0b66d946dd1@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Holy Pascha
+DESCRIPTION:The Resurrection of our Lord\, God and Saviour Jesus Christ\nFa
+ st: No fast\nReadings: Acts 1:1-8 · John 1:1-17\nCustomary services: Pasc
+ hal Matins and Divine Liturgy · Agape Vespers (check your parish's schedu
+ le)\nOld Calendar: April 19 (Martyr Theodore and those with him)\nAscalon 
+ Lent journal: [store URL]
+TRANSP:TRANSPARENT
+CATEGORIES:Liturgical calendar
+END:VEVENT
+BEGIN:VEVENT
+UID:9e2052ca8ca1d0fddb9e@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270424T130000Z
+DTEND:20270424T143000Z
+SUMMARY:Divine Liturgy (Lazarus Saturday)
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE TIMES ONLY. Replace with your parish's schedule.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Divine Liturgy (Lazarus Saturday)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4915f0ebac83c33bc504@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270424T150000Z
+DTEND:20270424T160000Z
+SUMMARY:Palm cross folding
+CATEGORIES:Parish
+LOCATION:Parish hall
+DESCRIPTION:EXAMPLE. Volunteers welcome.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Palm cross folding
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7601c4d923a905330937@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270425T133000Z
+DTEND:20270425T153000Z
+SUMMARY:Divine Liturgy (Palm Sunday)
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE. Fish allowed today.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Divine Liturgy (Palm Sunday)
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c82bcc803ea1fd5a60@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270425T160000Z
+DTEND:20270425T173000Z
+SUMMARY:Fish luncheon
+CATEGORIES:Parish
+LOCATION:Parish hall
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fish luncheon
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4bf967f1dc609dfb8c@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270425T230000Z
+DTEND:20270426T003000Z
+SUMMARY:Bridegroom Matins
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bridegroom Matins
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9c3baee155bf6f214e@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270428T223000Z
+DTEND:20270429T000000Z
+SUMMARY:Holy Unction
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Holy Unction
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d48590b9a9d4c35a2257@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270429T130000Z
+DTEND:20270429T150000Z
+SUMMARY:Vesperal Liturgy of the Mystical Supper
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vesperal Liturgy of the Mystical Supper
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1684db680f946074d1a7@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270429T230000Z
+DTEND:20270430T020000Z
+SUMMARY:Twelve Passion Gospels
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Twelve Passion Gospels
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:be99413d66ff33f48ef4@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270430T130000Z
+DTEND:20270430T150000Z
+SUMMARY:Royal Hours
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Royal Hours
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:995d1bd6c94f9fc0506c@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270430T190000Z
+DTEND:20270430T203000Z
+SUMMARY:Vespers of the Taking Down
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vespers of the Taking Down
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b42d0a319482ddb15aae@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270430T230000Z
+DTEND:20270501T010000Z
+SUMMARY:Lamentations at the Tomb
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lamentations at the Tomb
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b9239f3574949c75b27@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270502T030000Z
+DTEND:20270502T035900Z
+SUMMARY:Midnight Office and Paschal Matins
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE. Paschal Liturgy follows after midnight.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Midnight Office and Paschal Matins
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9553371fe1caa7540f56@orthocalendar
+DTSTAMP:20261013T121631Z
+DTSTART:20270502T180000Z
+DTEND:20270502T190000Z
+SUMMARY:Agape Vespers
+CATEGORIES:Parish
+LOCATION:Church
+DESCRIPTION:EXAMPLE.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agape Vespers
+TRIGGER:-PT60M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
